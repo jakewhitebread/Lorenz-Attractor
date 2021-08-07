@@ -1,7 +1,7 @@
 # Lorenz-Attractor
 A program for my Modeling and Simulation class that models a Lorenz Attractor.
 
-#Instructions:
+# Instructions:
 You are going to need a properly running computer with at least 8GB of Ram. 
 Installs of Required Software/Libraries: SciPy, NumPy, Matplotlib, and mpl_toolkits.mplot3d.
 
